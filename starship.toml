@@ -22,7 +22,6 @@ style = "bold fg:peach"
 symbol = "󰸏 "
 
 [azure]
-disabled = false
 format = ' [$symbol($subscription)]($style) '
 symbol = '󰠅 '
 style = 'blue bold'
